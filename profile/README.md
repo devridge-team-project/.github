@@ -10,6 +10,9 @@
 ### Tech Stack
 (수정 예정 @유희진)
 
+#### UI/UX
+- Figma
+
 #### Client
 - TypeScript
 - react 18
@@ -18,6 +21,8 @@
 - zustand
 
 #### Server
+
+#### CI/CD
 
 ![image](https://github.com/devridge-team-project/.github/assets/96467030/876dd0ee-cb45-40d2-a977-51e4f1fd702a)
 
