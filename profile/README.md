@@ -9,6 +9,16 @@
 (채워주세요 @김고성)
 ### Tech Stack
 (수정 예정 @유희진)
+
+#### Client
+- TypeScript
+- react 18
+- tailwind
+- @tanstack/react-query
+- zustand
+
+#### Server
+
 ![image](https://github.com/devridge-team-project/.github/assets/96467030/876dd0ee-cb45-40d2-a977-51e4f1fd702a)
 
 ### Member
