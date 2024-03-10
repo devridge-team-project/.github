@@ -32,4 +32,4 @@
 | --- | --- | --- | --- | --- | --- |
 |  |  |  | <img width="150px" src="https://avatars.githubusercontent.com/u/96467030?v=4" /> |  |  |
 | 기획 | Backend | Frontend | Backend, DevOps | Frontend | Backend |
-|  |  |  | [yu-heejin](https://github.com/yu-heejin) |  |  |
+|  |  |  | [yu-heejin](https://github.com/yu-heejin) |[jyj1111](https://github.com/jyj1111)  |  |
