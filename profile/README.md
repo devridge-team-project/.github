@@ -7,24 +7,25 @@
 > Bridge for Developer, DEVRIDGE
 >
 (채워주세요 @김고성)
-### Tech Stack
-(수정 예정 @유희진)
+### System Architecture
+(수정 예정)
+<img width="902" alt="스크린샷 2024-03-11 오전 4 19 33" src="https://github.com/devridge-team-project/.github/assets/96467030/e1405886-d68b-4808-8e76-5cea2e462941" />
 
 #### UI/UX
 - Figma
-
 #### Client
 - TypeScript
 - react 18
 - tailwind
 - @tanstack/react-query
 - zustand
-
 #### Server
-
-#### CI/CD
-
-![image](https://github.com/devridge-team-project/.github/assets/96467030/876dd0ee-cb45-40d2-a977-51e4f1fd702a)
+- Spring Boot 2.7.5
+- JDK 11
+#### DevOps
+- Nginx
+- Docker
+- AWS Service (EC2, S3, RDS, CloudFront)
 
 ### Member
 (빈칸 채워주세요 @모두)
