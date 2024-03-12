@@ -30,6 +30,6 @@
 (빈칸 채워주세요 @모두)
 | 김고성 | 김광연 | 박민형 | 유희진 | 정윤조 | 하정수 |
 | --- | --- | --- | --- | --- | --- |
-|  | <img width="150px" src="https://avatars.githubusercontent.com/u/108410827?s=400&v=4" /> |  | <img width="150px" src="https://avatars.githubusercontent.com/u/96467030?v=4" /> |  <img width="150px" src="https://avatars.githubusercontent.com/u/89414343?v=4" /> |  |
+|  | <img width="150px" src="https://avatars.githubusercontent.com/u/108410827?s=400&v=4" /> | <img width="150px" src="https://avatars.githubusercontent.com/u/105710796?v=4" /> | <img width="150px" src="https://avatars.githubusercontent.com/u/96467030?v=4" /> |  <img width="150px" src="https://avatars.githubusercontent.com/u/89414343?v=4" /> |  |
 | 기획 | Backend | Frontend | Backend, DevOps | Frontend | Backend |
 |  | [213kky](https://github.com/213kky) |  | [yu-heejin](https://github.com/yu-heejin) | [jyj1111](https://github.com/jyj1111)  |  |
