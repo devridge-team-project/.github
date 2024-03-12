@@ -27,6 +27,14 @@
 - Docker
 - AWS Service (EC2, S3, RDS, CloudFront)
 
+### UI/UX Figma
+[Figma](https://www.figma.com/file/IG4hQCAtRTlaA400YX1ba5/Devrigde-Project?type=design&node-id=0-1&mode=design&t=6XUd7k4prHVdAdcX-0)
+
+### ERD
+
+![Devridge-ERD](https://github.com/devridge-team-project/.github/assets/96467030/8c2d8eda-1e04-48c9-8204-d3afc3fa2c6f)
+
+
 ### Member
 (빈칸 채워주세요 @모두)
 | 김고성 | 김광연 | 박민형 | 유희진 | 정윤조 | 하정수 |
