@@ -8,8 +8,7 @@
 >
 (채워주세요 @김고성)
 ### System Architecture
-<img width="968" alt="스크린샷 2024-03-12 오전 1 50 27" src="https://github.com/devridge-team-project/.github/assets/96467030/93a1095d-3d0f-482a-8754-d2e34310f586">
-
+<img width="953" alt="스크린샷 2024-03-13 오전 12 20 21" src="https://github.com/devridge-team-project/.github/assets/96467030/be6b50d5-7012-482d-9574-c840d496c41a"/>
 
 #### UI/UX
 - Figma
