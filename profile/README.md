@@ -32,4 +32,4 @@
 | --- | --- | --- | --- | --- | --- |
 |  | <img width="150px" src="https://avatars.githubusercontent.com/u/108410827?s=400&v=4" /> | <img width="150px" src="https://avatars.githubusercontent.com/u/105710796?v=4" /> | <img width="150px" src="https://avatars.githubusercontent.com/u/96467030?v=4" /> |  <img width="150px" src="https://avatars.githubusercontent.com/u/89414343?v=4" /> |  |
 | 기획 | Backend | Frontend | Backend, DevOps | Frontend | Backend |
-|  | [213kky](https://github.com/213kky) |  | [yu-heejin](https://github.com/yu-heejin) | [jyj1111](https://github.com/jyj1111)  |  |
+|  | [213kky](https://github.com/213kky) | [park-minhyeong](https://github.com/park-minhyeong) | [yu-heejin](https://github.com/yu-heejin) | [jyj1111](https://github.com/jyj1111)  |  |
