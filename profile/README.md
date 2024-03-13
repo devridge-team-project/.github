@@ -25,6 +25,7 @@
 #### DevOps
 - Nginx
 - Docker
+- GitHub Actions
 - AWS Service (EC2, S3, RDS, CloudFront)
 
 ### UI/UX Figma
