@@ -9,9 +9,8 @@
 * 개발자들을 위한 정보 공유 플랫폼 웹 사이트입니다.
 * 커피챗, Q&A 지식 공유와 같은 개발자들을 위한 다양한 기능들을 제공합니다.
 ### System Architecture
-<img width="904" alt="스크린샷 2024-03-15 오후 10 24 10" src="https://github.com/devridge-team-project/.github/assets/96467030/acc4d4d5-bd7f-4b1d-ab35-23a71d9e0196"/>  
-
 * 추후 Bastion Host를 통해서만 접근할 수 있도록 인프라를 변경할 예정입니다.
+<img width="904" alt="스크린샷 2024-03-15 오후 10 24 10" src="https://github.com/devridge-team-project/.github/assets/96467030/acc4d4d5-bd7f-4b1d-ab35-23a71d9e0196"/>  
 
 #### UI/UX
 - Figma
