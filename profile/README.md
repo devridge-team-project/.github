@@ -9,7 +9,8 @@
 * 개발자들을 위한 정보 공유 플랫폼 웹 사이트입니다.
 * 커피챗, Q&A 지식 공유와 같은 개발자들을 위한 다양한 기능들을 제공합니다.
 ### System Architecture
-<img width="839" alt="스크린샷 2024-04-19 오전 1 00 15" src="https://github.com/devridge-team-project/.github/assets/96467030/25b0f75d-a367-4a22-917e-0092600752d0">
+<img width="887" alt="스크린샷 2024-04-19 오전 1 03 38" src="https://github.com/devridge-team-project/.github/assets/96467030/047873ff-acc9-451c-b0fb-450b3a8aa272">
+
 
 #### UI/UX
 - Figma
